@@ -5,11 +5,10 @@
 public class Coins {
 public static void main(String[] args) {
 {
-  //convert to int the input from user and than check how many quater and cent i need to use
 int quarter= Integer.parseInt(args[0]);
 int cents= quarter % 25;
 quarter= ((quarter - cents) / 25);
-System.out.println("Use " + quarter + " quarters and " + cents + " cents");//printing how many quaters and cents we can use that we use minimally ammount of cents th
+System.out.println("Use " + quarter + " quarters and " + cents + " cents");
 }
 }
 }
