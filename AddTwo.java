@@ -4,7 +4,6 @@
 public class AddTwo {
 public static void main(String[] args) {
 {
-//sum the input getting from the user and than print them
 int a= Integer.parseInt(args[0]);
 int b= Integer.parseInt(args[1]);
 System.out.println(a + " + " + b + " = " + (a + b)); //printing the equation with the result
