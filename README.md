@@ -1,5 +1,6 @@
 # Intro to CS - Your First Homework! 🚀
 
+
 Hello, aspiring code virtuosos! 👩‍💻🧙‍♂️ Welcome to your first homework assignment in our thrilling Intro to CS course! Get ready to embark on an epic coding journey using the magic of GitHub Classroom.
 Check out GitHub Safe Landing Tutorial for extra guidance.
 You can configure Git username and email by running the following commands on shell(terminal):
